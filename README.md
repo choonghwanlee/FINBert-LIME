@@ -1,2 +1,3 @@
-# PromptGuard-LIME
-Explaining Meta AI's Prompt Guard model using LIME
+# Explaining FINBert via LIME
+
+Explaining the popular FINBert model using LIME and a Twitter Financial Sentiment Analysis dataset
